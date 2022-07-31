@@ -1,0 +1,17 @@
+.btn-mine, .bg-mine {
+    color: #fff;
+    background-color: #eeac99;
+    border-color: #eeac99;
+}
+  
+.btn-grab, .bg-grab {
+    color: #fff;
+    background-color: #f2ae72;
+    border-color: #f2ae72;
+}
+
+.btn-loot, .bg-loot {
+    color: #fff;
+    background-color: #d96459;
+    border-color: #d96459;
+}
